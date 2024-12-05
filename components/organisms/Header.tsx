@@ -10,6 +10,8 @@ const Header = () => (
           src={trello}
           alt="Trello Logo"
           className="!min-h-[30px] !min-w-[80px] cursor-pointer opacity-50 hover:opacity-80"
+          height={30}
+          width={80}
         />
       </div>
     </nav>
